@@ -47,9 +47,18 @@ UnipiCityVibe is a modern, feature-rich Android application designed to help use
 
 ## 📸 Screenshots
 
-| Home Screen | Event Details | Voice Navigation | My Bookings |
-| :---: | :---: | :---: | :---: |
-| *[Insert Image Here]* | *[Insert Image Here]* | *[Insert Image Here]* | *[Insert Image Here]* |
+<p align="center">
+  <img src="screenshots/login.png" width="220" />
+  <img src="screenshots/home.png" width="220" />
+  <img src="screenshots/menu.png" width="220" />
+  <img src="screenshots/details.png" width="220" />
+</p>
+<p align="center">
+  <img src="screenshots/bookings.png" width="220" />
+  <img src="screenshots/maps.png" width="220" />
+  <img src="screenshots/voice.png" width="220" />
+  <img src="screenshots/settings.png" width="220" />
+</p>
 
 ---
 
