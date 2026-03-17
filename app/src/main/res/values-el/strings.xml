@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">UnipiCityVibe</string>
+    <string name="discover_events">Ανακαλύψτε εκδηλώσεις</string>
+    <string name="search_placeholder">Αναζήτηση εκδήλωσης...</string>
+    <string name="all_categories">Όλες οι κατηγορίες</string>
+    <string name="no_events_found">Δεν βρέθηκαν εκδηλώσεις</string>
+
+    <string name="cat_theater">Θέατρο</string>
+    <string name="cat_concert">Συναυλία</string>
+    <string name="cat_festival">Φεστιβάλ</string>
+    <string name="cat_exhibition">Έκθεση</string>
+    <string name="cat_cinema">Σινεμά</string>
+    <string name="cat_sports">Αθλητικά</string>
+
+    <string name="event_not_found">Η εκδήλωση δεν βρέθηκε</string>
+    <string name="book_tickets">Κράτηση Εισιτηρίων</string>
+    <string name="per_ticket">ανά εισιτήριο</string>
+    <string name="number_of_tickets">Αριθμός Εισιτηρίων</string>
+    <string name="full_name">Πλήρες Όνομα</string>
+    <string name="email">Email</string>
+    <string name="total">Σύνολο</string>
+    <string name="confirm_booking">Επιβεβαίωση Κράτησης</string>
+    <string name="cancel">Ακύρωση</string>
+    <string name="sold_out">Εξαντλήθηκαν</string>
+    <string name="about_event">Σχετικά με την εκδήλωση</string>
+    <string name="tickets_left">Απομένουν %1$d εισιτήρια</string>
+    <string name="fill_fields">Παρακαλώ συμπληρώστε όλα τα πεδία</string>
+    <string name="booking_confirmed">Η κράτηση επιβεβαιώθηκε!</string>
+    <string name="booked_on">Κρατήθηκε στις %1$s</string>
+    <string name="booked_recently">Κράτηση πρόσφατα</string>
+
+    <string name="my_bookings">Οι Κρατήσεις Μου</string>
+    <string name="bookings_subtitle">Δείτε και διαχειριστείτε τις κρατήσεις σας</string>
+    <string name="stat_bookings">Κρατήσεις</string>
+    <string name="stat_spent">Ξοδέψατε</string>
+    <string name="no_bookings_yet">Δεν έχετε ακόμα κρατήσεις</string>
+    <string name="booking_details">Στοιχεία Κράτησης</string>
+    <string name="total_amount">Συνολικό Ποσό</string>
+    <string name="confirmed">Επιβεβαιωμένη</string>
+    <string name="cancelled">Ακυρωμένη</string>
+
+    <string name="map_title">Χάρτης Εκδηλώσεων</string>
+    <string name="map_desc">Ανακαλύψτε εκδηλώσεις κοντά σας</string>
+    <string name="legend">Υπόμνημα</string>
+
+    <string name="settings_title">Ρυθμίσεις</string>
+    <string name="settings_desc">Διαχειριστείτε το προφίλ και τις ρυθμίσεις σας</string>
+    <string name="user_profile">Προφίλ Χρήστη</string>
+    <string name="appearance">Εμφάνιση</string>
+    <string name="theme">Θέμα</string>
+    <string name="language">Γλώσσα</string>
+    <string name="display_language">Εμφάνιση Γλώσσας</string>
+    <string name="save_settings">Αποθήκευση Ρυθμίσεων</string>
+    <string name="saving">Αποθήκευση...</string>
+    <string name="settings_saved">Οι ρυθμίσεις αποθηκεύτηκαν!</string>
+    <string name="theme_light">Φωτεινό</string>
+    <string name="theme_dark">Σκούρο</string>
+
+    <string name="welcome_back">Καλώς ήρθατε</string>
+    <string name="create_account">Δημιουργία Λογαριασμού</string>
+    <string name="enter_details">Εισάγετε τα στοιχεία σας για να συνεχίσετε</string>
+    <string name="password">Κωδικός</string>
+    <string name="log_in">Σύνδεση</string>
+    <string name="sign_up">Εγγραφή</string>
+    <string name="dont_have_account">Δεν έχετε λογαριασμό;</string>
+    <string name="already_have_account">Έχετε ήδη λογαριασμό;</string>
+    <string name="fill_all_fields">Συμπληρώστε όλα τα πεδία</string>
+    <string name="welcome">Καλωσήρθατε!</string>
+
+    <string name="menu_home">Αρχική</string>
+    <string name="menu_map">Χάρτης</string>
+    <string name="menu_bookings">Κρατήσεις</string>
+    <string name="menu_settings">Ρυθμίσεις</string>
+    <string name="menu_voice">Φωνητικές Εντολές</string>
+    <string name="menu_logout">Αποσύνδεση</string>
+    <string name="location_disabled">Η τοποθεσία είναι κλειστή! Άνοιγμα ρυθμίσεων...</string>
+    <string name="check_location">Έλεγχος τοποθεσίας...</string>
+</resources>

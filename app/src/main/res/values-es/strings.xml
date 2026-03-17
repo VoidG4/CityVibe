@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UnipiCityVibe</string>
+
+    <string name="discover_events">Descubre eventos</string>
+    <string name="search_placeholder">Buscar eventos...</string>
+    <string name="all_categories">Todas las categorías</string>
+    <string name="no_events_found">No se encontraron eventos</string>
+
+    <string name="cat_theater">Teatro</string>
+    <string name="cat_concert">Concierto</string>
+    <string name="cat_festival">Festival</string>
+    <string name="cat_exhibition">Exposición</string>
+    <string name="cat_cinema">Cine</string>
+    <string name="cat_sports">Deportes</string>
+
+    <string name="event_not_found">Evento no encontrado</string>
+    <string name="book_tickets">Reservar Entradas</string>
+    <string name="per_ticket">por entrada</string>
+    <string name="number_of_tickets">Número de entradas</string>
+    <string name="full_name">Nombre completo</string>
+    <string name="email">Correo electrónico</string>
+    <string name="total">Total</string>
+    <string name="confirm_booking">Confirmar Reserva</string>
+    <string name="cancel">Cancelar</string>
+    <string name="sold_out">Agotado</string>
+    <string name="about_event">Sobre este evento</string>
+    <string name="tickets_left">Quedan solo %1$d entradas</string>
+    <string name="fill_fields">Por favor, complete todos los campos</string>
+    <string name="booking_confirmed">¡Reserva confirmada!</string>
+    <string name="booked_on">Reservado el %1$s</string>
+    <string name="booked_recently">Reservado recientemente</string>
+
+    <string name="my_bookings">Mis Reservas</string>
+    <string name="bookings_subtitle">Ver y gestionar tus reservas</string>
+    <string name="stat_bookings">Reservas</string>
+    <string name="stat_spent">Gastado</string>
+    <string name="no_bookings_yet">No hay reservas todavía</string>
+    <string name="booking_details">Detalles de la Reserva</string>
+    <string name="total_amount">Importe Total</string>
+    <string name="confirmed">Confirmada</string>
+    <string name="cancelled">Cancelada</string>
+
+    <string name="map_title">Mapa de Eventos</string>
+    <string name="map_desc">Descubre eventos cercanos</string>
+    <string name="legend">Leyenda</string>
+
+    <string name="settings_title">Configuración</string>
+    <string name="settings_desc">Gestiona tu perfil y configuración</string>
+    <string name="user_profile">Perfil de Usuario</string>
+    <string name="appearance">Apariencia</string>
+    <string name="theme">Tema</string>
+    <string name="language">Idioma</string>
+    <string name="display_language">Idioma de visualización</string>
+    <string name="save_settings">Guardar Configuración</string>
+    <string name="saving">Guardando...</string>
+    <string name="settings_saved">¡Configuración guardada!</string>
+    <string name="theme_light">Claro</string>
+    <string name="theme_dark">Oscuro</string>
+
+    <string name="welcome_back">Bienvenido de nuevo</string>
+    <string name="create_account">Crear Cuenta</string>
+    <string name="enter_details">Introduce tus datos para continuar</string>
+    <string name="password">Contraseña</string>
+    <string name="log_in">Iniciar Sesión</string>
+    <string name="sign_up">Registrarse</string>
+    <string name="dont_have_account">¿No tienes cuenta?</string>
+    <string name="already_have_account">¿Ya tienes una cuenta?</string>
+    <string name="fill_all_fields">Completa todos los campos</string>
+    <string name="welcome">¡Bienvenido!</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_map">Mapa</string>
+    <string name="menu_bookings">Mis Reservas</string>
+    <string name="menu_settings">Configuración</string>
+    <string name="menu_voice">Comandos de Voz</string>
+    <string name="menu_logout">Cerrar Sesión</string>
+    <string name="location_disabled">¡Ubicación desactivada! Abriendo configuración...</string>
+    <string name="check_location">Comprobando ubicación...</string>
+</resources>
