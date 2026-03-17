@@ -48,16 +48,16 @@ UnipiCityVibe is a modern, feature-rich Android application designed to help use
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/login.png" width="220" />
-  <img src="screenshots/home.png" width="220" />
-  <img src="screenshots/menu.png" width="220" />
-  <img src="screenshots/details.png" width="220" />
+  <img src="screenshots/login.jpg" width="220" />
+  <img src="screenshots/home.jpg" width="220" />
+  <img src="screenshots/menu.jpg" width="220" />
+  <img src="screenshots/details.jpg" width="220" />
 </p>
 <p align="center">
-  <img src="screenshots/bookings.png" width="220" />
-  <img src="screenshots/maps.png" width="220" />
-  <img src="screenshots/voice.png" width="220" />
-  <img src="screenshots/settings.png" width="220" />
+  <img src="screenshots/bookings.jpg" width="220" />
+  <img src="screenshots/maps.jpg" width="220" />
+  <img src="screenshots/voice.jpg" width="220" />
+  <img src="screenshots/settings.jpg" width="220" />
 </p>
 
 ---
