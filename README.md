@@ -1,4 +1,4 @@
-# 🏛️ UnipiCityVibe
+# CityVibe
 
 UnipiCityVibe is a modern, feature-rich Android application designed to help users discover, track, and book tickets for cultural events in their city. Built entirely with **Kotlin** and **Jetpack Compose**, it offers a seamless and accessible user experience, featuring real-time geolocation alerts, voice-guided navigation, and a dynamic multilingual interface.
 
